@@ -1378,28 +1378,41 @@ p.reg {
 
 /*-- /inner_page --*/
 
+
 .inner_page_agile {
 	text-align: center;
-	background: url(../images/candidate.jpg) no-repeat 0px 0px;
-	background-size: cover;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-ms-background-size: cover;
+	/*background: url(../images/candidate.jpg) no-repeat 0px 0px;*/
 	min-height: 255px;
 	padding-top: 6em;
 }
 .about{
 	background: url(../images/about_us_banner3.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
 }
 
 .exports{
 	background: url(../images/exports_banner3.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
 }
 
 .contact{
 	background: url(../images/contact_us_banner4.jpg) no-repeat 0px 0px;	
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
 }
+
+
 .inner_page_agile h3 {
 	color: #fff;
 	text-transform: uppercase;
